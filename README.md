@@ -20,6 +20,6 @@ Soft Skills: Leadership, mentoring, and effective communication.
 
 🌟 Let's Connect:
 
-LinkedIn: https://www.linkedin.com/in/jitendranadh-kancharla-05a1521a4/
+LinkedIn: https://www.linkedin.com/in/jitendranadh-kancharla-05a1521a4/</br>
 Email: k.jithu2011@gmail.com
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss tech ideas!
