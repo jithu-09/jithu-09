@@ -11,9 +11,10 @@ Programming Languages: Python, Shell scripting, and a growing repertoire of othe
 Cloud Platforms: AWS (S3, EC2, Lambda, etc.), Azure.</br>
 Containerization & Orchestration: Docker, Kubernetes.</br>
 Infrastructure as Code: Terraform, Ansible.</br>
-Version Control: Git, GitHub Actions, Gitlab.</br>
+Version Control: Git.</br>
+CI/CD: Jenkins, GitHub Actions, Gitlab.</br>
 Development Tools: Visual Studio Code, CLI environments.</br>
-Soft Skills: Leadership, mentoring, and effective communication.</br>
+Soft Skills: Leadership, mentoring, excellent communication and Cross-functional collaboration.</br>
 
 🌟 Let's Connect:</br>
 LinkedIn: https://www.linkedin.com/in/jitendranadh-kancharla-05a1521a4/</br>
